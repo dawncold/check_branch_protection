@@ -14,6 +14,7 @@ git clone https://github.com/dawncold/check_branch_protection
 cd check_branch_protection
 virtualenv -p python3 .env
 source .env/bin/activate
+pip install -r requirements.txt
 ```
 
 ## Usage
